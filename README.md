@@ -24,7 +24,7 @@ We are currently working on conducting experiments with blindfolded sighted indi
 
 ## Supporting Material
 
-As a demonstration of the capabilties of the proposed solution, we have created real-time videos from different intersection configurations which proposes various challenges for our system. The videos are available at the project [Youtube channel](https://www.youtube.com/channel/UCh9GARW98Z41SezH-4fh7zg/videos).
+As a demonstration of the capabilties of the proposed solution, we have created real-time videos from different intersection configurations which proposes various challenges for our system. The videos are available at the project [Youtube channel](https://www.youtube.com/channel/UCh9GARW98Z41SezH-4fh7zg/).
 
 ## Contributors
 
